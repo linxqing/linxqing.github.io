@@ -30,7 +30,7 @@ const RESOURCES = {
 "/assets\LICENSE": "eca21132678100b3a3f43abe408280f5",
 "/assets\packages\cupertino_icons\assets\CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/index.html": "231af2419ea0d2c9c3ee5e1f2196c46d",
-"/main.dart.js": "d1f8ab2cc4881d3b2ca5944ffaf46af8"
+"/main.dart.js": "17a1965c92c52683c1a82254e4dc8604"
 };
 
 self.addEventListener('activate', function (event) {
